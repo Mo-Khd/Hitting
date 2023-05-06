@@ -75,7 +75,7 @@ public class Start
             @Override
             public void actionPerformed(ActionEvent e) {
             	p.pause=true;
-                JOptionPane.showMessageDialog(null, "Coded By Mohamed Azhy");
+                JOptionPane.showMessageDialog(null, "Coded By Mohammed");
                 
             }
         });
